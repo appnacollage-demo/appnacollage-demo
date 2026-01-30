@@ -1,4 +1,5 @@
-## Hi there 👋
+Tejuproject-demo
+Author-Tej narayan 
 
 <!--
 **appnacollage-demo/appnacollage-demo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
